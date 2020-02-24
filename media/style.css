@@ -14,12 +14,12 @@
 /*-- Definitie van Image ------------------------------------------------------------*/
 img 
 {
-  /*max-width: 100%;*/
+  max-width: 100%;
   height: auto;
   width: auto;  
 }
 
-/*-- Definite van het Geonovum Logo bovenaan Respec document ------------------------*/
+/*-- Definite van het Geonovum Logo bovenaan Respec document ------------------------
 img#Geonovum
 {
   width:132px;
